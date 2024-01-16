@@ -1,2 +1,2 @@
 # ProyectosDAM
-This is a repository where im going to push all my school proyects
+This is a repository where im pushing all my school proyects
